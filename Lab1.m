@@ -1,9 +1,9 @@
 % Example for Eigen value and Eigen vector
-%% Chanthini.R.A_3033
+%% Sanmil_3091
 clc; 
 clear all; 
 close all; 
-figure('name','Chanthini .R.A')
+figure('name','Sanmil')
 
 A=magic(4) %to create 4x4 matrix with no element repeating
 [V,D]=eig(A);
